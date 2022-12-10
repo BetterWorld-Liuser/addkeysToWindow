@@ -9,7 +9,7 @@
 然后用**左边的Alt**+数字键 打开特定的窗口,
 
 如下图所示:
-[截图说明](./screenshots.gif)
+![截图说明](./screenshots.gif)
 
 
 
